@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>22dba150790a2c193c46ec8bc4d20d322f7b2de4.jpg</filename>
+	<path>C:\Users\ali.haris\Documents\New folder\Solar panels\images\22dba150790a2c193c46ec8bc4d20d322f7b2de4.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>557</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>solar-panel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>140</xmin>
+			<ymin>289</ymin>
+			<xmax>169</xmax>
+			<ymax>342</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>solar-panel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>219</xmin>
+			<ymin>263</ymin>
+			<xmax>284</xmax>
+			<ymax>338</ymax>
+		</bndbox>
+	</object>
+</annotation>

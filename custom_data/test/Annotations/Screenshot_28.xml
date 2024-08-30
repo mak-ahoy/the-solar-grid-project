@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Screenshot_28.png</filename>
+	<path>C:\Users\ali.haris\Documents\New folder\Solar panels\images\Screenshot_28.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1018</width>
+		<height>785</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>solar-panel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>271</xmin>
+			<ymin>237</ymin>
+			<xmax>400</xmax>
+			<ymax>330</ymax>
+		</bndbox>
+	</object>
+</annotation>
